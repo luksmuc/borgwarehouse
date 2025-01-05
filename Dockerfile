@@ -1,5 +1,5 @@
-ARG UID=1001
-ARG GID=1001
+ARG UID=1024
+ARG GID=100
 
 FROM node:22-bookworm-slim as base
 
